@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/myportfolio/static/js/main.74ca67f1.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.74ca67f1.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.738d3f86.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.738d3f86.js.map",
+    "static/js/2.c4a3c893.chunk.js": "/myportfolio/static/js/2.c4a3c893.chunk.js",
+    "static/js/2.c4a3c893.chunk.js.map": "/myportfolio/static/js/2.c4a3c893.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "precache-manifest.d3b8bf3be117920355e07eaafdd4ed30.js": "/myportfolio/precache-manifest.d3b8bf3be117920355e07eaafdd4ed30.js",
+    "service-worker.js": "/myportfolio/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/myportfolio/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c4a3c893.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.c4a3c893.chunk.js.LICENSE.txt",
+    "static/media/CRM.PNG": "/myportfolio/static/media/CRM.fc7e3863.PNG",
+    "static/media/blog.PNG": "/myportfolio/static/media/blog.421cb952.PNG",
+    "static/media/codevillage.PNG": "/myportfolio/static/media/codevillage.4ff20164.PNG",
+    "static/media/flavorcolor.PNG": "/myportfolio/static/media/flavorcolor.e743329d.PNG",
+    "static/media/isara.PNG": "/myportfolio/static/media/isara.e47f26ce.PNG",
+    "static/media/portfolio.PNG": "/myportfolio/static/media/portfolio.726ac06e.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.738d3f86.js",
+    "static/js/2.c4a3c893.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.74ca67f1.chunk.js"
+  ]
+}
