@@ -41,7 +41,7 @@ const tileData = [
         title: "iSaraの模写コーディング",
         skill: "html, css, javascript",
         url: "https://sawakiii.github.io/iSaraCopiedPage/",
-        codeUrl: "https://github.com/sawakiii/iSaraCopiePage/",
+        codeUrl: true,
     },
     {
         img: image5,
