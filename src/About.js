@@ -16,17 +16,19 @@ const About = () => {
         },
         {
             left: "自己紹介",
-            right: "現在フロントエンドエンジニアのインターンを探しています。千葉大学国際教養学部、休学中。"
+            right: "現在IT業界で22卒webエンジニア職を目指して就活中です。千葉大学国際教養学部4年。"
         },
         {
             left: "経歴",
             right: `大学1-2年時に都内で役者活動を行う。
             大学3年次からビジネスサロンに通った後、営業のインターン、
-            プログラミング講師を経て2020年にハーブティーブランドFlavor Colorを立ち上げる。`
+            プログラミング講師を経て2020年にハーブティーブランドFlavor Colorを立ち上げる。
+            その後、webエンジニアインターンを開始し、Vue.js(TypeScript)とphp、mySQLを中心に開発を行っている。
+            `
         },
         {
             left: "スキルセット",
-            right: "html/css/javascript, React, node.js, MERN(Mongo/Express/React/Node.js)環境開発, python"
+            right: "html/css/javascript, React.js, Vue.js, node.js, MERN(Mongo/Express/React/Node.js)環境開発, python, php"
         }
     ]
     return (
